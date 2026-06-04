@@ -16,11 +16,11 @@
 
 Software Engineer with 1+ year of experience at **Darwinbox**, a fast-growing SaaS platform serving **3M+ users globally**. I build scalable distributed systems, microservices architectures, and production-grade RESTful APIs. Full-stack across Angular and React.js, with strong foundations in Data Structures, Algorithms, System Design, and Object-Oriented Design.
 
-- 🏢 Worked at **Darwinbox** (SDE-1) — multi-tenant systems, AWS infrastructure, Angular modules, Node Js, MicroServices
-- 🎓 **Gold Medalist** — B.Tech CSE, VNR VJIET · CGPA 8.77/10
-- ⚡ LeetCode **1852 rating** · 600+ problems solved · CodeChef **3-Star (1771)**
-- 🤖 Built RAG-based HR analytics engine reducing manual analysis by 70%
-- 🔧 Reduced manual deployment ops by 90% with a DAG-based MongoDB Atlas Search pipeline
+- Worked at **Darwinbox** (SDE-1) — multi-tenant systems, AWS infrastructure, Angular modules, Node Js, MicroServices
+- **Gold Medalist** — B.Tech CSE, VNR VJIET · CGPA 8.77/10
+- LeetCode **1852 rating** · 600+ problems solved · CodeChef **3-Star (1771)**
+- Built RAG-based HR analytics engine reducing manual analysis by 70%
+- Reduced manual deployment ops by 90% with a DAG-based MongoDB Atlas Search pipeline
 
 ---
 
@@ -47,14 +47,14 @@ Software Engineer with 1+ year of experience at **Darwinbox**, a fast-growing Sa
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20boot-%24B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20boot-%24B7178C.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Rest%20Apis-%23CB3837.svg?style=for-the-badge&logo=restApis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
